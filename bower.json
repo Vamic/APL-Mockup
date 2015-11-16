@@ -1,0 +1,15 @@
+{
+  "name": "APL-Mockup",
+  "homepage": "https://github.com/Vamic/APL-Mockup",
+  "authors": [
+    "Carl König <made.swede@live.com>"
+  ],
+  "description": "bap",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5"
+  }
+}
